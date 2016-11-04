@@ -1,3 +1,10 @@
+/****************************************************************************
+ *
+ * Created by: Jess and Craig
+ * Created on: Nov 2016
+ * This program shows all possible 'magic'squares (3x3)
+ ****************************************************************************/
+
 import java.awt.List;
 import java.util.Arrays;
 import java.util.HashSet;
